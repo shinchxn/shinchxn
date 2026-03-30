@@ -46,46 +46,30 @@
 ---
 
 ## 🧑‍💻 Programming Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,c" />
+  <img src="https://skillicons.dev/icons?i=js,python,c" />
 </p>
-
----
 
 ## ⚙️ Frameworks & Libraries
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
-
----
 
 ## 🗄️ Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
-
-## 🛠️ IDE & Tools
-
+## 🛠️ IDE & Development Environment
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-## 🎨 UI/UX & Design
-
+## 🎨 UI Design
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</p>
-
-- 🎨 UI Design (Figma / modern workflows)  
-- ⚡ Interactive UI experiments  
-- 🧪 Creative builds like Google Anti-Gravity concepts  
+  <img src="https://img.shields.io/badge/Google%20Stitch-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</p>  
 
 ---
 
