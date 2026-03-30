@@ -47,7 +47,7 @@
 
 ## 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,html" />
 </p>
 
 ## ⚙️ Frameworks & Libraries
