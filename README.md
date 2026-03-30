@@ -4,10 +4,10 @@
 </p>
 
 <!-- ⚡ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Tamizharasan -+Freelancer;Freelance+Web+Developer;Cyber+Security+Student;React+%7C+Next.js+%7C+Node.js+Expert" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Tamizharasan+%7C+Full+Stack+Developer+India;Freelance+Web+Developer+for+Clients;Cyber+Security+Student+%7C+Ethical+Hacking;Building+Secure+%26+Scalable+Web+Apps" />
+</p>
 ---
 
 # 👋 Tamizharasan | Full Stack vibe code Developer & Cyber Security Student
