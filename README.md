@@ -1,56 +1,57 @@
 <div align="center">
 
-# Tamizharasan R
-
-### Cybersecurity · Software Development · AI/ML
-
-Building software, exploring security, and turning ideas into working systems.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=TAMIZHARASAN%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=62&descSize=16&descColor=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:EAECEF&height=180&section=header&text=TAMIZHARASAN%20R&fontSize=42&fontColor=111111&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=62&descSize=16&descColor=57606A">
+  <img alt="Tamizharasan R — Cybersecurity / Software / AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:EAECEF&height=180&section=header&text=TAMIZHARASAN%20R&fontSize=42&fontColor=111111&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=62&descSize=16&descColor=57606A">
+</picture>
 
 <br>
 
-[**Portfolio**](https://tamizharasan.vercel.app/) ·
-[**LinkedIn**](https://www.linkedin.com/in/tamizharasanravi/) ·
-[**Repositories**](https://github.com/tamizh295?tab=repositories)
+<a href="https://tamizharasan.vercel.app/">Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/tamizharasanravi/">LinkedIn</a>
+  ·   <a href="https://github.com/tamizh295?tab=repositories">Repositories</a>
 
 </div>
 
 ---
 
-## About
-
-I'm **Tamizharasan R**, a cybersecurity-focused software developer interested in the intersection of **software engineering, application security, and intelligent systems**.
-
-I like working on problems where I can move between understanding the problem, designing the system, building the product, and thinking about how it can fail.
-
-Currently exploring:
-
-`Web Development` · `Application Security` · `API Security` · `AI/ML` · `Product Development`
-
----
-
-## What I Build
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="62%" valign="top">
 
-### Software
+## ABOUT
 
-Web applications, APIs, and full-stack systems with a focus on practical architecture and usable interfaces.
+I'm **Tamizharasan R**, a cybersecurity-focused software developer interested in building practical systems across **software engineering, application security, and AI/ML**.
+
+I enjoy moving from problem definition to architecture, implementation, security considerations, and a working prototype.
+
+My current direction is simple:
+
+**build useful software → understand how it fails → make it better.**
 
 </td>
-<td width="33%" valign="top">
 
-### Security
+<td width="38%" valign="top">
 
-Web and application security, API security, authentication, authorization, OWASP concepts, and CTF problem solving.
+### CURRENT
 
-</td>
-<td width="33%" valign="top">
+```text
+STATUS
+● BUILDING
 
-### Intelligence
+FOCUS
+Web Development
+Application Security
+AI / ML
+Product Development
 
-AI/ML-powered applications, data-driven systems, and prototypes that turn complex signals into useful decisions.
+MODE
+Learn
+Build
+Test
+Improve
+```
 
 </td>
 </tr>
@@ -58,144 +59,232 @@ AI/ML-powered applications, data-driven systems, and prototypes that turn comple
 
 ---
 
-## Selected Work
+## SELECTED WORK
 
-### StreamAhead
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Environmental intelligence · AI · resilience informatics**
+### 01 / STREAMAHEAD
 
-An early-warning concept for anticipating urban freshwater degradation using environmental and observational signals.
+**Environmental Intelligence**
 
-→ *Prototype / Development*
+Early-warning concept for anticipating urban freshwater degradation using environmental and observational signals.
+
+`AI` `Environment` `Resilience`
+
+**Status:** Prototype / Development
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 / AQUASENTINEL
+
+**Environmental Intelligence**
+
+AI-assisted environmental monitoring concept focused on identifying potential changes in freshwater conditions.
+
+`AI` `Data` `Monitoring`
+
+**Status:** Prototype
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 / HAZARD-ZONE PLATFORM
+
+**Disaster Management**
+
+Decision-support concept for identifying hazard-based red zones, assessing potential relocation areas, and prioritizing vulnerable habitations.
+
+`AI` `GIS` `Decision Support`
+
+**Status:** Prototype / Development
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 / CYBERSECURITY LAB
+
+**Security Engineering**
+
+Hands-on exploration of web security, application security, APIs, OWASP concepts, and competitive security challenges.
+
+`Web Security` `API` `CTF`
+
+**Status:** Ongoing
+
+</td>
+</tr>
+</table>
 
 ---
 
-### AquaSentinel
-
-**AI · environmental monitoring · data processing**
-
-An environmental intelligence project exploring AI-assisted monitoring and early warning for freshwater conditions.
-
-→ *Prototype*
-
----
-
-### Hazard-Zone & Relocation Platform
-
-**AI · GIS · disaster management**
-
-A decision-support concept for identifying hazard-based red zones, assessing potential relocation areas, and prioritizing vulnerable habitations.
-
-→ *Prototype / Development*
-
----
-
-### Cybersecurity Projects
-
-**Web security · APIs · OWASP · CTFs**
-
-Hands-on work exploring application security, web security concepts, API security, and competitive security challenges.
-
-→ *Ongoing*
-
----
-
-## Security
-
-I approach cybersecurity from the perspective of a builder:
+## SECURITY
 
 ```text
-BUILD
-  ↓
-UNDERSTAND THE ATTACK SURFACE
-  ↓
-TEST ASSUMPTIONS
-  ↓
-IDENTIFY WEAKNESSES
-  ↓
-IMPROVE THE SYSTEM
+APPLICATION SECURITY
+        │
+        ├── Web Security
+        ├── API Security
+        ├── Authentication
+        ├── Authorization
+        ├── OWASP
+        └── CTF Challenges
 ```
 
-Areas I'm developing:
+I approach security from a builder's perspective:
 
-* Web & application security
-* API security
-* Authentication & authorization
-* Secure application design
-* OWASP security concepts
-* CTFs and security challenges
+> **Understand the system first. Then understand how it can fail.**
 
 ---
 
-## Achievements
+## CAPABILITIES
 
-| Achievement                                             | Result                                            |
-| ------------------------------------------------------- | ------------------------------------------------- |
-| **From Problem to Prototype: AI-Driven Cyber Security** | **1st Position · ₹1,250**                         |
-| **EFOS Global Finance Hackathon 2026**                  | **Top 10 · ₹1,100 + Certificate of Appreciation** |
-| **CTF Challenges**                                      | **Multiple Top-10 placements**                    |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### SOFTWARE
+
+* Web Applications
+* React / Next.js
+* REST APIs
+* Backend Integration
+* Database-driven Systems
+
+</td>
+
+<td width="33%" valign="top">
+
+### SECURITY
+
+* Web Security
+* Application Security
+* API Security
+* Authentication
+* Authorization
+* OWASP Concepts
+
+</td>
+
+<td width="33%" valign="top">
+
+### AI / DATA
+
+* Machine Learning
+* NumPy
+* Pandas
+* Scikit-learn
+* Intelligent Applications
+* Data Processing
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technology
+## TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css,supabase,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css,supabase,mysql,git,github,vscode" alt="Technology stack" />
 
 </div>
 
 <br>
 
-**Languages**
-Python · JavaScript · TypeScript · C
-
-**Frontend**
-React · Next.js · HTML · CSS
-
-**Backend & Data**
-REST APIs · Supabase · MySQL
-
-**AI / ML**
-NumPy · Pandas · Scikit-learn · Machine Learning
-
-**Tools**
-Git · GitHub · VS Code
-
----
-
-## Currently Exploring
-
 ```text
-Application Security
-Secure Web & API Development
-AI-powered Applications
-Machine Learning
-Full-Stack Engineering
-Product Development
+LANGUAGES       Python · JavaScript · TypeScript · C
+FRONTEND        React · Next.js · HTML · CSS
+BACKEND         REST APIs · Supabase
+AI / DATA       NumPy · Pandas · Scikit-learn · Machine Learning
+TOOLS           Git · GitHub · VS Code
 ```
 
 ---
 
-## A Simple Rule
+## ACHIEVEMENTS
 
-> Build something real.
-> Understand how it works.
-> Find where it breaks.
-> Make it better.
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 01
+
+**1ST POSITION**
+
+From Problem to Prototype:
+AI-Driven Cyber Security
+
+**₹1,250**
+
+</td>
+
+<td align="center" width="33%">
+
+### 02
+
+**TOP 10**
+
+EFOS Global Finance
+Hackathon 2026
+
+**₹1,100 + Certificate**
+
+</td>
+
+<td align="center" width="33%">
+
+### 03
+
+**CTF**
+
+Multiple
+Top-10 Placements
+
+**Security Challenges**
+
+</td>
+</tr>
+</table>
+
+---
+
+## CURRENTLY EXPLORING
+
+`Secure Web Applications`
+
+`Application & API Security`
+
+`AI-Powered Applications`
+
+`Machine Learning`
+
+`Full-Stack Engineering`
+
+`Product Development`
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
-
-[Portfolio](https://tamizharasan.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/tamizharasanravi/) ·
-[GitHub](https://github.com/tamizh295)
+### BUILD / SECURE / LEARN
 
 <br>
 
-`BUILD · SECURE · LEARN`
+<a href="https://tamizharasan.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/tamizharasanravi/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
