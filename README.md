@@ -1,130 +1,141 @@
-<!-- 🔥 Premium Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Tamizharasan&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20%7C%20AI%20Explorer&descSize=18&descAlignY=55"/>
-</p>
+<div align="center">
 
-<!-- ⚡ Neon Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Automation+Explorer;💼+Freelancer+Building+Secure+Apps;⚡+React+%7C+Next.js+%7C+Node.js" />
-</p>
+# `TAMIZHARASAN.R`
 
----
+### Cybersecurity-Focused Software Developer
 
-# 👋 Hey, I'm Tamizharasan  
+**Software Development · Cybersecurity · AI/ML · Product Building**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Security-00F7FF?style=for-the-badge&logo=target&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Freelancer-Available-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI-Explorer-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+<a href="https://tamizharasan.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tamizharasanravi/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-💻 Building **secure, scalable, modern web apps**  
-🔐 Passionate about **Web Security & Ethical Hacking**  
-🧠 Exploring **AI, Automation & Prompt Engineering**  
-💼 Helping clients create **fast & secure digital products**  
+I'm **Tamizharasan R**, a cybersecurity-focused software developer interested in building practical, secure, and useful technology.
 
----
+My interests span **web and application development, cybersecurity, AI/ML, and product development**. I enjoy taking problems from idea → architecture → implementation → working prototype.
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://tamizharasan.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
-</p>
+I actively participate in **hackathons and CTFs**, using them to solve unfamiliar problems, work under constraints, and turn technical ideas into working solutions.
 
 ---
 
-## 📫 Connect With Me
+## `> focus`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tamizharasan-r-b6659537a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/shinchxn_29">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="mailto:tamizharasanravi29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF3B3B?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+```text
+CYBERSECURITY     Web Security · Application Security · API Security
+DEVELOPMENT       Web Applications · APIs · Full-Stack Development
+AI / ML           Machine Learning · Intelligent Applications
+PRODUCT           Prototyping · Problem Solving · Product Development
+```
 
 ---
 
-## 🧠 Tech Stack
+## `> selected.projects`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,react,nextjs,mysql,git,github,vscode," />
-</p>
+### `StreamAhead`
 
----
+AI-assisted early-warning concept for anticipating urban freshwater degradation using environmental and observational signals.
 
-## 🔐 Security Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/XSS-Testing-FF073A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSRF-Analysis-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Security-OWASP-00F7FF?style=for-the-badge"/>
-</p>
+**Focus:** AI · Environmental Monitoring · Resilience Informatics
 
 ---
 
-## 📊 GitHub Stats
+### `AquaSentinel`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00F7FF" height="160"/>
-</p>
+Environmental intelligence project exploring AI-assisted monitoring and early warning for freshwater conditions.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&color=00F7FF&line=00F7FF"/>
-</p>
+**Focus:** AI · Data Processing · Environmental Monitoring
 
 ---
 
-## 🚀 Featured Projects
+### `Hazard-Zone & Relocation Platform`
 
-🔐 **Voip Osint **  
-→It is an advanced, CLI-based threat intelligence tool built for law enforcement.  
+Decision-support concept for identifying hazard-based red zones, assessing potential relocation areas, and prioritizing vulnerable habitations.
 
-🛡️ **Content DNA Apex **
-Forensic Infrastructure & Analog Hole Defense
-
-🧑‍💼 **Portfolio with Admin Panel**  
-→ Dynamic content management  
-
+**Focus:** AI · GIS · Disaster Management
 
 ---
 
-## 💼 Hire Me
+### `Cybersecurity Projects`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-39FF14?style=for-the-badge"/>
-</p>
+Hands-on exploration of web security, application security, API security and competitive security challenges.
 
-✔ Full Stack Web Development  
-✔ Secure Web Applications  
-✔ Admin Dashboards  
-✔ Bug Fixing & Optimization  
-
-📩 **Email:** tamizharasanravi29@gmail.com  
-🌐 **Portfolio:** https://tamizharasan.vercel.app/  
+**Focus:** Web Security · APIs · OWASP · CTFs
 
 ---
 
-## ⚡ Dev Quote
+## `> achievements`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+```text
+🏆 1st Position
+   From Problem to Prototype: AI-Driven Cyber Security
+   ₹1,250 Cash Prize
+
+🏅 Top 10
+   EFOS Global Finance Hackathon 2026
+   ₹1,100 Cash Prize + Certificate of Appreciation
+
+🔐 CTFs
+   Multiple Top-10 Placements
+```
 
 ---
 
-<!-- 🔻 Neon Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
-</p>
+## `> stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css,supabase,mysql,git,github,vscode" />
+
+</div>
+
+```text
+LANGUAGES      Python · JavaScript · TypeScript · C
+FRONTEND       React · Next.js · HTML · CSS
+BACKEND        REST APIs · Supabase
+AI / DATA      Machine Learning · NumPy · Pandas · Scikit-learn
+TOOLS          Git · GitHub · VS Code
+```
+
+---
+
+## `> currently.exploring`
+
+```text
+Application Security
+Secure Web & API Development
+AI-powered Applications
+Machine Learning
+Full-Stack Development
+Product Development
+```
+
+---
+
+## `> connect`
+
+I'm interested in **software development, cybersecurity, AI applications, hackathons, and building useful products**.
+
+<div align="center">
+
+<a href="https://tamizharasan.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/tamizharasanravi/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+`BUILD • SECURE • LEARN`
+
+</div>
