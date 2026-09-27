@@ -1,331 +1,201 @@
 <div align="center">
 
-# `TAMIZHARASAN.R`
+# Tamizharasan R
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    ENGINEERING PROFILE                     ║
-║                                                              ║
-║   STATUS    ● ONLINE                                         ║
-║   ROLE      CYBERSECURITY-FOCUSED SOFTWARE DEVELOPER        ║
-║   MODE      BUILD  •  SECURE  •  EXPERIMENT                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### Cybersecurity · Software Development · AI/ML
 
-### `SOFTWARE × CYBERSECURITY × AI`
+Building software, exploring security, and turning ideas into working systems.
 
-<a href="https://tamizharasan.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/tamizharasanravi/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/tamizh295">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=white"/>
-</a>
+<br>
+
+[**Portfolio**](https://tamizharasan.vercel.app/) ·
+[**LinkedIn**](https://www.linkedin.com/in/tamizharasanravi/) ·
+[**Repositories**](https://github.com/tamizh295?tab=repositories)
 
 </div>
 
 ---
 
-## `01 // IDENTITY`
+## About
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ NAME        Tamizharasan R                                   │
-│ ROLE        Cybersecurity-Focused Software Developer         │
-│ DOMAIN      Software Development · Security · AI             │
-│ APPROACH    Understand → Build → Secure → Validate           │
-└──────────────────────────────────────────────────────────────┘
-```
+I'm **Tamizharasan R**, a cybersecurity-focused software developer interested in the intersection of **software engineering, application security, and intelligent systems**.
 
-I'm interested in building **practical, secure, and useful technology**.
+I like working on problems where I can move between understanding the problem, designing the system, building the product, and thinking about how it can fail.
 
-My work sits across:
+Currently exploring:
 
-```text
-SOFTWARE       Web Applications · APIs · Full-Stack Development
-SECURITY       Web Security · Application Security · API Security
-AI / ML        Machine Learning · Intelligent Applications
-PRODUCT        Prototyping · Problem Solving · Product Development
-```
-
-I enjoy taking a problem from **idea → architecture → implementation → working prototype**.
+`Web Development` · `Application Security` · `API Security` · `AI/ML` · `Product Development`
 
 ---
 
-## `02 // CURRENT_FOCUS`
+## What I Build
 
-```text
-[ CYBERSECURITY ]
+<table>
+<tr>
+<td width="33%" valign="top">
 
-    Web Security
-    Application Security
-    API Security
-    Authentication & Authorization
-    OWASP Concepts
-    CTF Challenges
+### Software
 
+Web applications, APIs, and full-stack systems with a focus on practical architecture and usable interfaces.
 
-[ SOFTWARE ENGINEERING ]
+</td>
+<td width="33%" valign="top">
 
-    Web Applications
-    Frontend Development
-    Backend / APIs
-    Database Integration
-    Git / GitHub
+### Security
 
+Web and application security, API security, authentication, authorization, OWASP concepts, and CTF problem solving.
 
-[ AI / DATA ]
+</td>
+<td width="33%" valign="top">
 
-    Machine Learning
-    Data Processing
-    Intelligent Applications
+### Intelligence
 
+AI/ML-powered applications, data-driven systems, and prototypes that turn complex signals into useful decisions.
 
-[ PRODUCT ]
-
-    Problem Definition
-    Rapid Prototyping
-    Technical Planning
-    Product Positioning
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## `03 // SYSTEM_WORKFLOW`
+## Selected Work
 
-```text
-                    ┌─────────────┐
-                    │   PROBLEM   │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ UNDERSTAND  │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   DESIGN    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    BUILD    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   SECURE    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │  VALIDATE   │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    SHIP     │
-                    └─────────────┘
-```
+### StreamAhead
 
-> Security shouldn't be something added after an application is built.
-> I want to understand it while building the system.
-
----
-
-## `04 // SELECTED_PROJECTS`
-
-### `PROJECT_01 :: STREAMAHEAD`
-
-```text
-TYPE       Environmental Intelligence
-STATUS     Prototype / Development
-FOCUS      AI · Environmental Monitoring · Resilience
-```
+**Environmental intelligence · AI · resilience informatics**
 
 An early-warning concept for anticipating urban freshwater degradation using environmental and observational signals.
 
----
-
-### `PROJECT_02 :: AQUASENTINEL`
-
-```text
-TYPE       Environmental Intelligence
-STATUS     Prototype
-FOCUS      AI · Data Processing · Water Monitoring
-```
-
-An AI-assisted environmental monitoring concept focused on identifying potential changes in freshwater conditions.
+→ *Prototype / Development*
 
 ---
 
-### `PROJECT_03 :: HAZARD-ZONE PLATFORM`
+### AquaSentinel
 
-```text
-TYPE       Disaster Management
-STATUS     Prototype / Development
-FOCUS      AI · GIS · Decision Support
-```
+**AI · environmental monitoring · data processing**
+
+An environmental intelligence project exploring AI-assisted monitoring and early warning for freshwater conditions.
+
+→ *Prototype*
+
+---
+
+### Hazard-Zone & Relocation Platform
+
+**AI · GIS · disaster management**
 
 A decision-support concept for identifying hazard-based red zones, assessing potential relocation areas, and prioritizing vulnerable habitations.
 
+→ *Prototype / Development*
+
 ---
 
-### `PROJECT_04 :: CYBERSECURITY LAB`
+### Cybersecurity Projects
+
+**Web security · APIs · OWASP · CTFs**
+
+Hands-on work exploring application security, web security concepts, API security, and competitive security challenges.
+
+→ *Ongoing*
+
+---
+
+## Security
+
+I approach cybersecurity from the perspective of a builder:
 
 ```text
-TYPE       Security
-STATUS     Ongoing
-FOCUS      Web Security · APIs · OWASP · CTFs
+BUILD
+  ↓
+UNDERSTAND THE ATTACK SURFACE
+  ↓
+TEST ASSUMPTIONS
+  ↓
+IDENTIFY WEAKNESSES
+  ↓
+IMPROVE THE SYSTEM
 ```
 
-Hands-on exploration of application security, web security concepts, API security, and competitive security challenges.
+Areas I'm developing:
+
+* Web & application security
+* API security
+* Authentication & authorization
+* Secure application design
+* OWASP security concepts
+* CTFs and security challenges
 
 ---
 
-## `05 // SECURITY_MODULE`
+## Achievements
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     SECURITY PRACTICE                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  WEB        →  Web & Application Security                    ║
-║  API        →  API Security & Authorization                   ║
-║  IDENTITY   →  Authentication / Authorization                 ║
-║  APP        →  Secure Application Design                      ║
-║  CTF        →  Competitive Security Challenges                ║
-║  RESEARCH   →  OWASP & Security Concepts                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-I learn security through **building systems, understanding how they fail, solving security challenges, and studying application-security concepts**.
+| Achievement                                             | Result                                            |
+| ------------------------------------------------------- | ------------------------------------------------- |
+| **From Problem to Prototype: AI-Driven Cyber Security** | **1st Position · ₹1,250**                         |
+| **EFOS Global Finance Hackathon 2026**                  | **Top 10 · ₹1,100 + Certificate of Appreciation** |
+| **CTF Challenges**                                      | **Multiple Top-10 placements**                    |
 
 ---
 
-## `06 // ACHIEVEMENT_LOG`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ [01]  1ST POSITION                                           │
-│      From Problem to Prototype: AI-Driven Cyber Security     │
-│      ₹1,250 Cash Prize                                       │
-│                                                              │
-│ [02]  TOP 10                                                 │
-│      EFOS Global Finance Hackathon 2026                      │
-│      ₹1,100 Cash Prize + Certificate of Appreciation         │
-│                                                              │
-│ [03]  CTF                                                     │
-│      Multiple Top-10 Placements                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `07 // TECHNOLOGY_STACK`
+## Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css,supabase,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css,supabase,mysql,git,github,vscode" />
 
 </div>
 
+<br>
+
+**Languages**
+Python · JavaScript · TypeScript · C
+
+**Frontend**
+React · Next.js · HTML · CSS
+
+**Backend & Data**
+REST APIs · Supabase · MySQL
+
+**AI / ML**
+NumPy · Pandas · Scikit-learn · Machine Learning
+
+**Tools**
+Git · GitHub · VS Code
+
+---
+
+## Currently Exploring
+
 ```text
-LANGUAGES      Python · JavaScript · TypeScript · C
-
-FRONTEND       React · Next.js · HTML · CSS
-
-BACKEND        REST APIs · Supabase
-
-AI / DATA      Machine Learning · NumPy · Pandas · Scikit-learn
-
-TOOLS          Git · GitHub · VS Code
+Application Security
+Secure Web & API Development
+AI-powered Applications
+Machine Learning
+Full-Stack Engineering
+Product Development
 ```
 
 ---
 
-## `08 // CURRENTLY_EXPLORING`
+## A Simple Rule
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [+] Secure Web Applications                                 │
-│  [+] Application & API Security                              │
-│  [+] AI-Powered Applications                                 │
-│  [+] Machine Learning                                       │
-│  [+] Full-Stack Development                                  │
-│  [+] Product Development                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> Build something real.
+> Understand how it works.
+> Find where it breaks.
+> Make it better.
 
 ---
-
-## `09 // BUILD_LOOP`
-
-```text
-LEARN
-  │
-  ▼
-EXPERIMENT
-  │
-  ▼
-BREAK
-  │
-  ▼
-UNDERSTAND
-  │
-  ▼
-BUILD BETTER
-  │
-  └───────────────────────↺
-```
-
-Not every repository is intended to be a finished product.
-
-Some are **projects**.
-
-Some are **prototypes**.
-
-Some are **experiments**.
-
-All of them are part of the process.
-
----
-
-## `10 // CONNECT`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  PORTFOLIO   →  tamizharasan.vercel.app                     │
-│  LINKEDIN    →  linkedin.com/in/tamizharasanravi             │
-│  GITHUB      →  github.com/tamizh295                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-Interested in **software development, cybersecurity, AI applications, hackathons, and building useful products**.
 
 <div align="center">
 
-<a href="https://tamizharasan.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### Let's build something useful.
 
-<a href="https://www.linkedin.com/in/tamizharasanravi/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[Portfolio](https://tamizharasan.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/tamizharasanravi/) ·
+[GitHub](https://github.com/tamizh295)
 
-<br><br>
+<br>
 
-`BUILD • SECURE • LEARN`
+`BUILD · SECURE · LEARN`
 
 </div>
