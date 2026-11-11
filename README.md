@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=TAMIZHARASAN%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=62&descSize=16&descColor=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:EAECEF&height=180&section=header&text=TAMIZHARASAN%20R&fontSize=42&fontColor=111111&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=62&descSize=16&descColor=57606A">
-  <img alt="Tamizharasan R — Cybersecurity / Software / AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:EAECEF&height=180&section=header&text=TAMIZHARASAN%20R&fontSize=42&fontColor=111111&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=62&descSize=16&descColor=57606A">
+  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
+  <source media="(prefers-color-scheme: light)" srcset="https://vercel.app">
+  <img alt="Tamizharasan R (@shinchxn) — Cybersecurity / Software / AI" src="https://vercel.app">
 </picture>
 
 <br>
 
-<a href="https://tamizharasan.vercel.app/">Portfolio</a>
-  ·   <a href="https://www.linkedin.com/in/tamizharasanravi/">LinkedIn</a>
-  ·   <a href="https://github.com/tamizh295?tab=repositories">Repositories</a>
+<a href="https://vercel.app">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://linkedin.com">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com">Repositories (@shinchxn)</a>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## ABOUT
 
-I'm **Tamizharasan R**, a cybersecurity-focused software developer interested in building practical systems across **software engineering, application security, and AI/ML**.
+I'm **Tamizharasan R** ([`@shinchxn`](https://github.com)), a cybersecurity-focused software developer interested in building practical systems across **software engineering, application security, and AI/ML**.
 
 I enjoy moving from problem definition to architecture, implementation, security considerations, and a working prototype.
 
@@ -37,6 +37,9 @@ My current direction is simple:
 ### CURRENT
 
 ```text
+HANDLE
+@shinchxn
+
 STATUS
 ● BUILDING
 
@@ -47,10 +50,7 @@ AI / ML
 Product Development
 
 MODE
-Learn
-Build
-Test
-Improve
+Learn · Build · Test · Improve
 ```
 
 </td>
@@ -65,7 +65,21 @@ Improve
 <tr>
 <td width="50%" valign="top">
 
-### 01 / STREAMAHEAD
+### 01 / [FORM2FACT](https://github.com/form2fact)
+
+**AI & Verification**
+
+Automated verification and structured data extraction tool built for rapid validation workflows.
+
+`AI` `Automation` `Web`
+
+**Status:** Open Source
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 / [STREAMAHEAD](https://github.com)
 
 **Environmental Intelligence**
 
@@ -76,10 +90,12 @@ Early-warning concept for anticipating urban freshwater degradation using enviro
 **Status:** Prototype / Development
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-### 02 / AQUASENTINEL
+### 03 / [AQUASENTINEL](https://github.com)
 
 **Environmental Intelligence**
 
@@ -90,12 +106,10 @@ AI-assisted environmental monitoring concept focused on identifying potential ch
 **Status:** Prototype
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
-### 03 / HAZARD-ZONE PLATFORM
+### 04 / [HAZARD-ZONE PLATFORM](https://github.com)
 
 **Disaster Management**
 
@@ -106,10 +120,12 @@ Decision-support concept for identifying hazard-based red zones, assessing poten
 **Status:** Prototype / Development
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td colspan="2" valign="top">
 
-### 04 / CYBERSECURITY LAB
+### 05 / [CYBERSECURITY LAB](https://github.com)
 
 **Security Engineering**
 
@@ -194,7 +210,7 @@ I approach security from a builder's perspective:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css,supabase,mysql,git,github,vscode" alt="Technology stack" />
+<img src="https://skillicons.dev" alt="Technology stack used by Tamizharasan R (shinchxn)" />
 
 </div>
 
@@ -205,7 +221,7 @@ LANGUAGES       Python · JavaScript · TypeScript · C
 FRONTEND        React · Next.js · HTML · CSS
 BACKEND         REST APIs · Supabase
 AI / DATA       NumPy · Pandas · Scikit-learn · Machine Learning
-TOOLS           Git · GitHub · VS Code
+TOOLS           Git · GitHub (@shinchxn) · VS Code
 ```
 
 ---
@@ -259,17 +275,7 @@ Top-10 Placements
 
 ## CURRENTLY EXPLORING
 
-`Secure Web Applications`
-
-`Application & API Security`
-
-`AI-Powered Applications`
-
-`Machine Learning`
-
-`Full-Stack Engineering`
-
-`Product Development`
+`Secure Web Applications` · `Application & API Security` · `AI-Powered Applications` · `Machine Learning` · `Full-Stack Engineering` · `Product Development`
 
 ---
 
@@ -279,12 +285,16 @@ Top-10 Placements
 
 <br>
 
-<a href="https://tamizharasan.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://vercel.app">
+<img src="https://shields.io" alt="Portfolio" />
 </a>
 
-<a href="https://www.linkedin.com/in/tamizharasanravi/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com">
+<img src="https://shields.io" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com">
+<img src="https://shields.io" alt="GitHub shinchxn" />
 </a>
 
 </div>
