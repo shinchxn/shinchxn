@@ -6,7 +6,7 @@
 
 <a href="https://github.com/shinchxn">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="[https://linkedin.com](https://www.linkedin.com/in/tamizharasanravi/)">LinkedIn</a>
+<a href="https://www.linkedin.com/in/tamizharasanravi/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://tamizharasan.vercel.app/">Portfolio</a>
 
